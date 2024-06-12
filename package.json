@@ -1,0 +1,18 @@
+{
+  "name": "1-inception",
+  "version": "1.0.0",
+  "description": "this is namaste class",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "git",
+    "init"
+  ],
+  "author": "jenifer",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
