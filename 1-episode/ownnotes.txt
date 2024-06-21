@@ -1,0 +1,17 @@
+vs code use EMMETS
+html:5
+
+
+docuemt. getelemtid class all super power already browser has 
+
+
+insert react inside html
+
+
+react => manipulate dom 
+
+expensive operation => dom manipulate 
+dom tree changing when execution => costly opertaion , react comes with dom help function to perform 
+
+
+CROSS ORIGIN 
